@@ -1,0 +1,42 @@
+256 smus cusruusuun [1211111111.
+
+“ Rex Angliae, puter noster, fecit civibus Londoniarum,
+“ in 1111111111--ε Edwardus, Dei gratia Rex Angliae,
+“ ‘Dominus Hiberniae, et Dux Aquitanniae, Amhiepisco·
+“ ‘pis, Episcopis, Abbatibus, Prioribus, comitibus, Bo·
+“ ‘mnibus Justicieriis, vicecomitibus, Praepositis, mi·
+“ ί11111111, et omnibus ballivis et fidelibus nostris, salu·
+“ ‘tem Inspeximus cherum quam celebris memoriae
+“ ‘Dominus Henrieus, quondam Rex anglie, pater
+‘¹ ‘noster, fecit civibus Londoniarum, in haec verbat-
+“ ‘ Henricus, Dei gratia Rex Angue, Dominus Hiberniae,
+“ ‘Dux Normanniae et Aquiunniae, Comes Andagaviae,
+“ ‘Arebiepiscopis Episcopis, Abbatibus, comitibus,
+“ ‘Beronibus J usticiariis, vicecomitibus, Praepositn, et
+“ ‘omnibus ballivis et fidelibus suis, salutem Sciatis
+“ ‘nos concessisse, et prasenti Charta nostra confir·
+“ ‘ masse, civibus Londoniarum Vicecomitatum Londoni-
+“ ‘erum et middelsexiam omnibus rebus [ct] con-
+“ ‘suetudinibus quae pertinent ad praedictum Viceco-
+“ ‘mitatum infra civitatem et extra per terras ct per
+“ ‘equas habendum 11 tenendum eis 11 boeredibus suis
+“ ‘de nobis 11 heredibus nostris, reddendo inde an·
+“ ‘nuatim nobis et haeredibus nostris ccc sterlingorum
+“ ‘ blancorum, duobus terminis anni, scilicet, ad Scaeua·
+“ ‘rium Paschae cl libras, et ad Scacoarium Sancti
+“ ‘Michaelis cl libras3 salvis civibus londoniarum
+“ ‘omnibus libertatibus ct liberis consuetudinibus suis.
+‘⁶ ‘Et praeterea, concessimus civibus Londoniarum, quod
+“ ‘ ipsi do seipsis faciant Vicccomites quoscunque volue-
+. ,ι 1”111111,11ῧ111111111111111111111 volucrium 11 cos quos
+“ ‘ ccerint icecomites, praesentent usticiariis nostris,
+“ ‘qui respondeant nobis, vel Justicimiis nostris ad
+“ ‘Scaccurium² de hiis quse ad praedictum Vioecomita-
+“ ‘tum pertinent, exquibus nobis respondere debent.
+“ ‘Et nisi sufficienter responderint et satisfecerint
+“ ‘cives Londonisuum respondeant 11 satisfaciant de
+“ ‘misericordia ct firma3 salvis libertatibus suis, sicut
+“ ‘praedictum [cst]‚ et solvis eisdem Vicecomitibus
+
+ 
+
